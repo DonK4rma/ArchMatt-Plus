@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archmatt:blocks/color11",
+    "particle": "archmatt:blocks/color11"
+  }
+}

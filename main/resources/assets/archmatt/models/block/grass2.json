@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "archmatt:blocks/grass2",
+    "particle": "archmatt:blocks/grass2"
+  }
+}
